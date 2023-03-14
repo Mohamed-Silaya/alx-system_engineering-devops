@@ -7,7 +7,7 @@ Project done during Full Stack Software Engineering studies at Holberton School.
 # Files
 All of the following files are scripts:
 
-| Filename	| Description |
+| Filename	| Description | 
 | --------- | ----------- |
 0-hello_world	| Prints "Hello, World", followed by a new line to the standard output
 1-confused_smiley |	Displays a confused smiley "(Ôo)'
